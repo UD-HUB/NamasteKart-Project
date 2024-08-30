@@ -1,0 +1,5 @@
+order_id,order_date,product_id,quantity,sales,city,rejected_reason
+1,2023-01-01,,1,50000,Bangalore,Invalid product id ;Columns product_id are empty.;
+3,2023-01-03,200,1,4500,,Columns city are empty.;Invalid city .;
+4,2023-01-04,,3,30000,Bangalore,Invalid product id ;Columns product_id are empty.;
+3,2023-01-03,200,,4500,Mumbai,Columns quantity are empty.;Invalid Sales calculation.
