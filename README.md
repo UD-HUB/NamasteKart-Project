@@ -2,7 +2,7 @@
 NamasteMart, an online mart operating in Bangalore and Mumbai, generates daily transaction files that need validation. This project involves creating a system to validate these files and notify the business of any issues.
 
 #### Folder Structure:
-NamasteKart\n
+NamasteKart
 incoming_files
 success_files
 rejected_files
